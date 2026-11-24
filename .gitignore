@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+.venv/
+*.pyc
+firmware/
+extracted/
+images/
+decompiled/
+*.bin
+*.wav
+*.jpg
+*.jpeg
+*.gpzp
+*.ttf
+*.pak
+*.bak
